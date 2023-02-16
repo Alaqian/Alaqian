@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="SD_Banner.png" width="600" height="300"/>
+  <img src="Software Developer.png" width="600" height="300"/>
 </div>
 
 <h1>Hi 👋, I'm Alaqian Zafar</h1>
