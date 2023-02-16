@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alaqian Zafar</h1>
-<h3 align="center">A passionate software developer from NYU</h3>
+<h1>Hi 👋, I'm Alaqian Zafar</h1>
+<h3>A passionate software developer from NYU</h3>
 
 - 🌱 I’m currently learning **Synthetic Image Generation Using Stable Diffusion**
 
