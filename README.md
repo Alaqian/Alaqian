@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="SD.png" />
+  <img src="SDB.png" />
 </div>
 
 <h1>Hi 👋, I'm Alaqian Zafar</h1>
