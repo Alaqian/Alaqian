@@ -1,6 +1,7 @@
 <h1>Hi 👋, I'm Alaqian Zafar</h1>
 <h3>A passionate software developer from NYU</h3>
 
+- 😄 Pronouns: **He/Him/His**
 - 🌱 I’m currently learning **Synthetic Image Generation Using Stable Diffusion**
 
 - 💬 Ask me about **Computer Vision and Medical Imaging**
