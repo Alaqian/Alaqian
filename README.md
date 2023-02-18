@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Computer Vision and Medical Imaging**
 
-- 📫 How to reach me **aaz7118@nyu.edu**
+- 📫 How to reach me: **aaz7118@nyu.edu**
 
 - ⚡ Fun fact **I love solving jigsaw puzzles**
 
