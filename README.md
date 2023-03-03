@@ -8,6 +8,8 @@
 - 😄 Pronouns: **He/Him/His**
 - 🌱 I’m currently learning **Synthetic Image Generation Using Stable Diffusion**
 
+- 👯 I’m looking to collaborate on [Building a Rubik's Cube Solver with Reinforcement Learning](https://github.com/Alaqian/rubicks-cube)
+
 - 💬 Ask me about **Computer Vision and Medical Imaging**
 
 - 📫 How to reach me: **aaz7118@nyu.edu**
