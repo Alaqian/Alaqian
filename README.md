@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **aaz7118@nyu.edu**
 
-- ⚡ Fun fact **I love solving jigsaw puzzles**
+- ⚡ Fun fact **I love solving Jigsaw Puzzles** 🧩
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
