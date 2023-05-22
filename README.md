@@ -60,7 +60,7 @@
 <h3 align="left">DataBase</h3>
 <p align="left">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="icons\MySQL-Dark.svg" alt="mysql" width="40" height="40"/></a>
-    <a href="https://www.oacle.com/" target="_blank" rel="noreferrer"><img src="icons/oracle.png" alt="oracle" width="40" height="40"/></a>
+    <a href="https://www.oacle.com/" target="_blank" rel="noreferrer"><img src="icons\Oracle.svg" alt="oracle" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Software and Tools</h3>
