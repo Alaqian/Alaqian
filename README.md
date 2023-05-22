@@ -44,7 +44,7 @@
 <h3 align="left">Big Data and Analytics</h3>
 <p align="left">
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="icons/Pandas.svg" alt="pandas" width="40" height="40"/></a>
-    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://icon-icons.com/download/170560/SVG/512/" alt="spark" width="40" height="40"/></a>
+    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="icons/spark.png" alt="spark" width="40" height="40"/></a>
     <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/></a>
     <a href="https://www.dask.org/" target="_blank" rel="noreferrer"><img src="https://docs.dask.org/en/stable/_images/dask_icon.svg" alt="dask" width="40" height="40"/></a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="icons\MongoDB.svg" alt="mongodb" width="40" height="40"/></a>
