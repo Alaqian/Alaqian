@@ -81,8 +81,8 @@
 
 <h3 align="left">Frontend Development</h3>
 <p align="left">
-    <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="icons/css.svg" alt="css3" width="40" height="40"/></a>
-    <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"><img src="icons/html.svg" alt="html5" width="40" height="40"/></a>
+    <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="icons/csss.svg" alt="css3" width="40" height="40"/></a>
+    <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"><img src="icons/html5.svg" alt="html5" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Backend Development</h3>
