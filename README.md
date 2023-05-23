@@ -33,10 +33,12 @@
 
 <h4 align="left">Artificial Intelligence and Machine Learning</h4>
 <p align="left">
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="icons\TensorFlow-Dark.svg" alt="tensorflow" width="40" height="40"/></a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="icons\PyTorch-Dark.svg" alt="pytorch" width="40" height="40"/></a>
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="icons\TensorFlow-Dark.svg" alt="tensorflow" width="40" height="40"/></a>
+    <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="icons\Keras.svg" alt="keras" width="40" height="40"/></a>
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
     <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="icons\NumPy.svg" alt="numpy" width="40" height="40"/></a>
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="icons/Jupyter.svg" alt="jupyter" width="40" height="40"/></a>
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
 </p>
@@ -81,8 +83,8 @@
 
 <h4 align="left">Frontend Development</h4>
 <p align="left">
-    <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="icons/csss.svg" alt="css3" width="40" height="40"/></a>
     <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"><img src="icons/html5.svg" alt="html5" width="40" height="40"/></a>
+    <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="icons/csss.svg" alt="css3" width="40" height="40"/></a>
 </p>
 
 <h4 align="left">Backend Development</h4>
