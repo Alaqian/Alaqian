@@ -96,3 +96,57 @@
 <!-- Add content for the "Other" section here -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaqian&show_icons=true&locale=en&layout=compact" alt="alaqian" /></p>
+
+
+
+<table>
+  <tr>
+    <td>
+      <h4>Programming Languages</h4>
+      <table>
+        <tr>
+          <td align="center"><a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="icons/CPP.svg" alt="C++" width="40" height="40"/></a></td>
+          <td align="center"><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="icons\Java-Dark.svg" alt="java" width="40" height="40"/></a></td>
+          <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></td>
+          <td align="center"><a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="icons\PHP-Dark.svg" alt="php" width="40" height="40"/></a></td>
+          <td align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
+        </tr>
+        <tr>
+          <td align="center">C++</td>
+          <td align="center">Java</td>
+          <td align="center">JavaScript</td>
+          <td align="center">PHP</td>
+          <td align="center">Python</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <h4>Artificial Intelligence and Machine Learning</h4>
+      <table>
+        <tr>
+          <td align="center"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="icons\PyTorch-Dark.svg" alt="pytorch" width="40" height="40"/></a></td>
+          <td align="center"><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="icons\TensorFlow-Dark.svg" alt="tensorflow" width="40" height="40"/></a></td>
+          <td align="center"><a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="icons\Keras.svg" alt="keras" width="40" height="40"/></a></td>
+          <td align="center"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a></td>
+          <td align="center"><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a></td>
+          <td align="center"><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="icons\NumPy.svg" alt="numpy" width="40" height="40"/></a></td>
+          <td align="center"><a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="icons/Jupyter.svg" alt="jupyter" width="40" height="40"/></a></td>
+          <td align="center"><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a></td>
+        </tr>
+        <tr>
+          <td align="center">PyTorch</td>
+          <td align="center">TensorFlow</td>
+          <td align="center">Keras</td>
+          <td align="center">Scikit-learn</td>
+          <td align="center">OpenCV</td>
+          <td align="center">NumPy</td>
+          <td align="center">Jupyter</td>
+          <td align="center">Matlab</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  
+  <!-- Add other sections here with the same structure -->
+  
+</table>
